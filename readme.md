@@ -16,15 +16,15 @@ This project demonstrates how to create a simple chatbot using Google's Generati
     https://github.com/Saksham1411/ChatBot-CLI.git
 
 2. Navigate to the project directory:
-    cd chatbot-cli
+    `cd chatbot-cli`
 
 3. Install dependencies:
-    npm install
+    `npm install`
 (or `yarn install`)
 
 ### Environment Configuration:
 
-1. Create a `.env` file in the project directory with the following content:
+1. Create a `.env` file in the project directory with the following content:<br>
     API_KEY=<your_google_generative_ai_api_key>
     Replace `<your_google_generative_ai_api_key>` with your actual API key.
 
